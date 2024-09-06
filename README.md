@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @spencerclc
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Machine learning, Data Mining. 
-- 💞️ I’m looking to collaborate on real world projects about how to give insightful advice throung data analytics.
 - 📫 How to reach me: spencerclc@gmail.com
 
 <!---
